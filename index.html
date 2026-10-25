@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#eaf7fd">
+  <meta name="description" content="ステラソラの編成とプリセットコード一覧">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <title>編成一覧 | ステラソラ</title>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <main class="container">
+    <header class="page-header">
+      <div class="brand-mark" aria-hidden="true">✳</div>
+      <div class="heading-text">
+        <h1 data-i18n="heading">編成・プリセット一覧</h1>
+      </div>
+      <div class="language-switch" role="group" aria-label="Language">
+        <button type="button" data-lang="ja" class="active" aria-pressed="true">日本語</button>
+        <button type="button" data-lang="en" aria-pressed="false">English</button>
+        <button type="button" data-lang="zh-Hans" aria-pressed="false">简体中文</button>
+        <button type="button" data-lang="zh-Hant" aria-pressed="false">繁體中文</button>
+        <button type="button" data-lang="ko" aria-pressed="false">한국어</button>
+      </div>
+    </header>
+
+    <section class="site-intro" aria-label="サイトのご案内" data-i18n-aria="aboutLabel">
+      <p class="intro-main" data-i18n="intro">個人的に使っているプリセットコードを蓄積してるサイトです。
+あくまでも1ユーザが組んだだけのものなので、最適解という保証はありません。
+まぁそれなりに戦えるものにはなっていると思います。
+参考程度にお使いください。</p>
+      <p class="intro-code-notice" data-i18n="codeNotice">プリセットコードは予告なく変更する可能性があります。</p>
+      <p class="intro-wanted-notice" data-i18n="wantedNotice">指名手配想定です。
+優先度の高い素質は安め編成との差分で見てください。</p>
+      <p class="intro-disclaimer" data-i18n="disclaimer">※日本語以外はAI翻訳なので、間違ってるかもです。</p>
+      <p class="intro-contact" data-i18n="contact">何かご意見あればXまで。</p>
+      <nav class="social-links" aria-label="SNSリンク" data-i18n-aria="socialLabel">
+        <a href="https://x.com/Tobari25_exe" target="_blank" rel="noopener noreferrer">X (Twitter) <span aria-hidden="true">↗</span></a>
+        <a href="https://www.youtube.com/@tobari25" target="_blank" rel="noopener noreferrer">YouTube <span aria-hidden="true">↗</span></a>
+      </nav>
+    </section>
+
+    <div class="toolbar">
+      <label class="search-wrap">
+        <svg aria-hidden="true" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.5"/><path d="m16 16 5 5"/></svg>
+        <span class="sr-only" data-i18n="searchLabel">編成名・キャラクター名・属性で検索</span>
+        <input type="search" id="search-input" placeholder="編成名・キャラ名・属性で検索" autocomplete="off" spellcheck="false">
+      </label>
+      <span class="count"><strong id="count">0</strong> <span data-i18n="countUnit">件</span></span>
+    </div>
+    <div id="element-filter" class="element-filters" role="group" aria-label="属性で絞り込み"></div>
+
+    <section id="build-list" class="build-grid" aria-live="polite" aria-label="編成一覧"></section>
+    <div id="empty-state" class="empty-state" hidden>
+      <p id="empty-message">編成はまだ登録されていません</p>
+    </div>
+    <div id="error-state" class="empty-state error-state" hidden data-i18n="loadError">編成データを読み込めませんでした</div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </main>
+</body>
+</html>
