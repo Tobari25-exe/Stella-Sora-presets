@@ -1,0 +1,653 @@
+[
+  {
+    "id": "party_mvnvt5pm_pkap82o98u",
+    "title": "フリージア水印パ",
+    "characters": [
+      "フリージア",
+      "ウィロー（水着）",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形82",
+        "code": "AAAAfQAAAKAAAABrbDAAk4DNjsAABsGDDGAG"
+      },
+      {
+        "label": "安め65",
+        "code": "AAAAfQAAAKAAAABrZjAAk4DNg8AAA8GCAGAD"
+      }
+    ],
+    "comment": "ウィロー実装によってフリージアが覚醒した姿。\n会心次第でありえないくらいダメージに差が出る。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnvnmsv_pro592heo7",
+    "title": "エリー水パ",
+    "characters": [
+      "エリー",
+      "トーナ",
+      "ウィロー（水着）"
+    ],
+    "presets": [
+      {
+        "label": "理想形88",
+        "code": "AAAAiwAAAIIAAACgzbADAEbNgCQcADAGwGwG"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAiwAAAIIAAACgxvADAAbNgCAMADADwDwD"
+      }
+    ],
+    "comment": "エリー実装後の水パ最適。\n取りたい素質多め。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnv9l7f_4qwn6zzy6i",
+    "title": "チトセウィロー",
+    "characters": [
+      "チトセ",
+      "トーナ",
+      "ウィロー（水着）"
+    ],
+    "presets": [
+      {
+        "label": "理想形85",
+        "code": "AAAAkAAAAKAAAACCMAYjYjAwBsBsBs2AJDwA"
+      },
+      {
+        "label": "安め69",
+        "code": "AAAAkAAAAKAAAACCMAYjYBgwA8BsAc2AIAwA"
+      }
+    ],
+    "comment": "ウィロー実装後水パ最適。\nなるべくウィローの素質を集めたい。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnuwslt_w5jm4g25cm",
+    "title": "チトフリトナ",
+    "characters": [
+      "チトセ",
+      "フリージア",
+      "トーナ"
+    ],
+    "presets": [
+      {
+        "label": "理想形83",
+        "code": "AAAAkAAAAH0AAACCMAZjZjBtgCwBgM2ALDwA"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAkAAAAH0AAACCMAYjYDBswCwBgM2AIBwA"
+      }
+    ],
+    "comment": "趣味で使ってた3馬力編成。\n全員が火力を出すので育成コスト重い。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnug2sx_sbv1rl89k1",
+    "title": "チトナスキル型",
+    "characters": [
+      "チトセ",
+      "トーナ",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAkAAAAIIAAAB/MAZjZjDNgCwcAKxAAA2w"
+      },
+      {
+        "label": "安め69",
+        "code": "AAAAkAAAAIIAAAB/MAYjYDDNgCAMAKZAAA2Y"
+      }
+    ],
+    "comment": "トーナ入りスキル型。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvntdd2h_340awxkxhm",
+    "title": "ナズフリトナ",
+    "characters": [
+      "ナズナ",
+      "フリージア",
+      "トーナ"
+    ],
+    "presets": [
+      {
+        "label": "理想形85",
+        "code": "AAAAnAAAAH0AAACCMYDMYYBtgCgBsM2AIGwA"
+      },
+      {
+        "label": "安め63",
+        "code": "AAAAnAAAAH0AAACCMMDEMYBtgCgBgMeAIBwA"
+      }
+    ],
+    "comment": "ナズナフリージアのトーナ入り。\n同じく雑魚湧きボスに有効。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnswrqt_edu2pu3js7",
+    "title": "ナズナフリージア",
+    "characters": [
+      "ナズナ",
+      "フリージア",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形82",
+        "code": "AAAAnAAAAH0AAAB/MYDMYYBtgCgBsMBADA2w"
+      },
+      {
+        "label": "安め62",
+        "code": "AAAAnAAAAH0AAAB/MMDEMYBtgCgBgMBAAA2Y"
+      }
+    ],
+    "comment": "どんちき+氷渦ですべてを破壊する。\n雑魚湧きボスに有効。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnsexmq_pywbu3no6i",
+    "title": "チトフリ通常型",
+    "characters": [
+      "チトセ",
+      "フリージア",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形87",
+        "code": "AAAAkAAAAH0AAAB/zbAHDABsADgNgKxAAG2A"
+      },
+      {
+        "label": "安め67",
+        "code": "AAAAkAAAAH0AAAB/zbADAgBsACwMAKJAAG2A"
+      }
+    ],
+    "comment": "ボスのギミックによって、スキル型と使い分ける。基本はスキル型の方でいい。\nフリージアの論証維持が大事。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvns451p_y647dfc3hm",
+    "title": "チトフリスキル型",
+    "characters": [
+      "チトセ",
+      "フリージア",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAkAAAAH0AAAB/MAZjZjBsADgNgKxAAA2w"
+      },
+      {
+        "label": "安め63",
+        "code": "AAAAkAAAAH0AAAB/MAYjYDBsADgAAKZAAA2Y"
+      }
+    ],
+    "comment": "アニバ時点恒常で組むなら1番使いやすい。\nフリージアも育てば火力出せる。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvnhz4ih_26lklihay6",
+    "title": "通常軸風パ",
+    "characters": [
+      "レイス",
+      "エレノア",
+      "アンズ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAjwAAAIkAAAB7zZADDBAwBsM8AKDGwJwA"
+      },
+      {
+        "label": "安め69",
+        "code": "AAAAjwAAAIkAAAB7x4ADDBAwA8M2AKDDwBwA"
+      }
+    ],
+    "comment": "レイス強化後風パ最適編成。\n通常接待ある時に使うとGood。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvnhq2mn_j1ccmsm4mc",
+    "title": "ウィロー風パ",
+    "characters": [
+      "ウィロー（水着）",
+      "エレノア",
+      "ナツカ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAoAAAAIUAAACJMAbDYBgwAM3sAMwwAzwA"
+      },
+      {
+        "label": "安め72",
+        "code": "AAAAoAAAAIUAAACJMAbB4AgwAMXsAMwwAxYA"
+      }
+    ],
+    "comment": "レイス強化前の風パ最適。\n印発動が要らない時に使える。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvnhkiso_3jg4rra3q3",
+    "title": "ナズエレナツ",
+    "characters": [
+      "ナズナ",
+      "エレノア",
+      "ナツカ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAnAAAAIUAAACJMYDMYYAwAM3sAMwwAzwA"
+      },
+      {
+        "label": "安め72",
+        "code": "AAAAnAAAAIUAAACJMYDEMYAwAMXsAMwwAxYA"
+      }
+    ],
+    "comment": "ウィロー使えない時用。\n印発動が要らない時に使える。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvnh9say_gyuuhnopec",
+    "title": "レイスナツカ",
+    "characters": [
+      "レイス",
+      "ナツカ",
+      "アンズ"
+    ],
+    "presets": [
+      {
+        "label": "理想形85",
+        "code": "AAAAjwAAAIUAAAB7zZADDBAwAds8AKDGwJwA"
+      },
+      {
+        "label": "安め71",
+        "code": "AAAAjwAAAIUAAAB7x4ADDBAwAJM8AKDDwBwA"
+      }
+    ],
+    "comment": "レイス実装時の(多分)風パ最適。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvngl10s_jx925ykvtd",
+    "title": "ナズナツ",
+    "characters": [
+      "ナズナ",
+      "アンズ",
+      "ナツカ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAnAAAAHsAAACFMYDMYYCgBsAcATAG2xwA"
+      },
+      {
+        "label": "安め65",
+        "code": "AAAAnAAAAHsAAACFMMDEMYCgA8AcADAD2wYA"
+      }
+    ],
+    "comment": "風アタッカー未所持向け。\nナツカ軸で地の無限リングやる時用でもある。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvngal1l_kjomwfundm",
+    "title": "ナツカ軸風パ",
+    "characters": [
+      "ティリア",
+      "アンズ",
+      "ナツカ"
+    ],
+    "presets": [
+      {
+        "label": "理想形85",
+        "code": "AAAAawAAAHsAAACFkjPADAagBsAcATAG2xwA"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAawAAAHsAAACFkDPADAOgA8AcADAD2wYA"
+      }
+    ],
+    "comment": "元は光の無限リング用に組んだ編成。星4+ナツカなら多分最適。\n両面風の時にもかなり使えそう。ナズナいるならそっちでいい。",
+    "element": "ventus"
+  },
+  {
+    "id": "party_mvnclsir_exx7yzmwbd",
+    "title": "シアウィロー2",
+    "characters": [
+      "シア",
+      "ミネルバ",
+      "ウィロー（水着）"
+    ],
+    "presets": [
+      {
+        "label": "理想形82",
+        "code": "AAAAmwAAAIQAAACgzbADEjZQAcAcCDAAw2QY"
+      },
+      {
+        "label": "安め65",
+        "code": "AAAAmwAAAIQAAACgzbADEgFQAcAcCDAAweQA"
+      }
+    ],
+    "comment": "両面光などでティリアホタルが使えない時用。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mvncglxg_wgqp3txafk",
+    "title": "シアウィロー",
+    "characters": [
+      "シア",
+      "ティリア",
+      "ウィロー（水着）"
+    ],
+    "presets": [
+      {
+        "label": "理想形80",
+        "code": "AAAAmwAAAKAAAABrzbADEgEwAMNkGMwzDGAA"
+      },
+      {
+        "label": "安め68",
+        "code": "AAAAmwAAAKAAAABrzbADEgEwAMHkAMwbDDAA"
+      }
+    ],
+    "comment": "ウィロー実装時点の水パ最適。\nミネルバ3凸未満ならなおさらこっち。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mvnc5cpc_fh4pymyh7",
+    "title": "画面めっちゃうるさい",
+    "characters": [
+      "セイナ（原点）",
+      "ホタル",
+      "シア"
+    ],
+    "presets": [
+      {
+        "label": "理想形77",
+        "code": "AAAAogAAAHMAAACbzbACbYbDiAQMADABIBwB"
+      },
+      {
+        "label": "安め68",
+        "code": "AAAAogAAAHMAAACbzZgAvYbDiAQMADABIBwB"
+      }
+    ],
+    "comment": "ティリア居ない時のセイナパ。\nシアは月の海の兎たち以外枠埋め。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mvmxbso0_pnnovifwec",
+    "title": "フユカ火パ",
+    "characters": [
+      "フユカ",
+      "ラール（聖夜）",
+      "フローラ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAhgAAAH4AAACeMAE7DDbMDhgRgMIBGAwG"
+      },
+      {
+        "label": "安め71",
+        "code": "AAAAhgAAAH4AAACeMAEPBjbMBgwBgMIAGAwG"
+      }
+    ],
+    "comment": "フユカの必殺技にすべてを賭ける。\n目指せ全会心。",
+    "element": "ignis"
+  },
+  {
+    "id": "party_mvmx63y5_mu4py2mwav",
+    "title": "シャトン火パ",
+    "characters": [
+      "シャトン",
+      "ラール（聖夜）",
+      "フローラ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAcgAAAH4AAACeMAYA7Y7MDhgRgMIBGAwG"
+      },
+      {
+        "label": "安め72",
+        "code": "AAAAcgAAAH4AAACeMAYA7A7MBgwBgMIAGAwG"
+      }
+    ],
+    "comment": "シャトンでほぼすべての火力を出す。\nスナップショットを意識すると立ち回りがめっちゃ難くなるが、そこまでしなくてもある程度の火力は出る。",
+    "element": "ignis"
+  },
+  {
+    "id": "party_mvmwvl7t_5o2atzrk1o",
+    "title": "セイナ光パ",
+    "characters": [
+      "セイナ（原点）",
+      "ホタル",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAogAAAHMAAABrzbACbYbDiAQMAGzIwAIA"
+      },
+      {
+        "label": "安め73",
+        "code": "AAAAogAAAHMAAABrzZgAvYbDiAQMAGxIwAIA"
+      }
+    ],
+    "comment": "ひたすらセイナの素質を集める。\n支援の枠埋めが重要。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mvmwnirw_87a6nouc5j",
+    "title": "シア光パ",
+    "characters": [
+      "シア",
+      "ミネルバ",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形88",
+        "code": "AAAAmwAAAIQAAABrzbADEjZQAcBsCMwzDGAA"
+      },
+      {
+        "label": "安め66",
+        "code": "AAAAmwAAAIQAAABrzZgDEgFQAcAcCMwbDDAA"
+      }
+    ],
+    "comment": "ダッシュキャンセルゲーミング。\n三塁打は敵が複数出ない時はなくていい。ただしミネルバの枠埋めは必要。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mvmvnq9j_w8jh4lb95o",
+    "title": "スパクル地パ",
+    "characters": [
+      "スパクル",
+      "ナズナ",
+      "クルニス（華服）"
+    ],
+    "presets": [
+      {
+        "label": "理想形88",
+        "code": "AAAAjAAAAJwAAACfzbAZAgDBgBgNhs2IAGAw"
+      },
+      {
+        "label": "安め74",
+        "code": "AAAAjAAAAJwAAACfzbAYgADBgBgGxseIAGAY"
+      }
+    ],
+    "comment": "全てを破壊する地パテンプレ。\n取りたい素質が多すぎる。",
+    "element": "terra"
+  },
+  {
+    "id": "party_mvmuij5a_7ss5ibr447",
+    "title": "フィレンミスティ闇パ",
+    "characters": [
+      "フィレン",
+      "ミスティ",
+      "コゼット"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAbgAAAIcAAACOzPAYAEbNkMBgAGxBwAww"
+      },
+      {
+        "label": "安め74",
+        "code": "AAAAbgAAAIcAAACOzOAYAAbMwMBgAGwBwAwY"
+      }
+    ],
+    "comment": "フィレン実装時の闇パ最適。コゼットの1は迷幻優先。\nミスティも育てればちゃんと火力出せる。",
+    "element": "umbra"
+  },
+  {
+    "id": "party_mvmuaeqe_srb0feq6f1",
+    "title": "ティリア地印パ",
+    "characters": [
+      "ナズナ",
+      "グレイ",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形74",
+        "code": "AAAAnAAAAJUAAABrUYEDbAZgADsMAMGAAGAG"
+      },
+      {
+        "label": "安め68",
+        "code": "AAAAnAAAAJUAAABrUMEDPAZgADsMAMGAAGAG"
+      }
+    ],
+    "comment": "初期最強編成。グレイの支援スキルを避けられないのが大事。\nもともと組みやすいので安めも大差ない。",
+    "element": "terra"
+  },
+  {
+    "id": "party_mvmtyez5_zy354hossx",
+    "title": "クルニス入り地印パ",
+    "characters": [
+      "グレイ",
+      "ナズナ",
+      "クルニス（華服）"
+    ],
+    "presets": [
+      {
+        "label": "理想形80",
+        "code": "AAAAnAAAAJUAAACfwYAHbAZgADsMAJGAAGww"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAnAAAAJUAAACfwMADPAZgADsMAJGAAGwY"
+      }
+    ],
+    "comment": "ほぼすべてを印ダメージで出す。\nよっぽどクルニスが育っているなら、81以降はクルニスの火力素質を。",
+    "element": "terra"
+  },
+  {
+    "id": "party_mvmtd2ca_std9mpe4vp",
+    "title": "初期闇パ",
+    "characters": [
+      "コゼット",
+      "クルニス",
+      "ミスティ"
+    ],
+    "presets": [
+      {
+        "label": "理想形74",
+        "code": "AAAAjgAAAHYAAACHXAkEAjDMAADsQM2wwGAQ"
+      },
+      {
+        "label": "安め61",
+        "code": "AAAAjgAAAHYAAACHXAkAAjDGAADsAM2YYGAA"
+      }
+    ],
+    "comment": "ガチ初期闇パを現代知識で組んだもの。頑張って法陣に留めよう。\nコゼットは6以外枠埋め。",
+    "element": "umbra"
+  },
+  {
+    "id": "party_mvmsr1x3_qr1z196wqp",
+    "title": "カリン軸闇パ",
+    "characters": [
+      "カリン",
+      "オトハ",
+      "コゼット"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAnQAAAI4AAACRzbAHAChsQcAMMM2YGYAA"
+      },
+      {
+        "label": "安め75",
+        "code": "AAAAnQAAAI4AAACRzbAHABhsAcAMGMzIGYAA"
+      }
+    ],
+    "comment": "カリン＆オトハで火力を出す。コゼットの1は迷幻優先。\nどの素質も優秀なので素質調整が難しい。",
+    "element": "umbra"
+  },
+  {
+    "id": "party_mvmsj1x5_oqvfnu4ch3",
+    "title": "ミスオト",
+    "characters": [
+      "コゼット",
+      "ミスティ",
+      "オトハ"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAjgAAAJEAAACHXDYIADAwBntgAM2YwGAA"
+      },
+      {
+        "label": "安め73",
+        "code": "AAAAjgAAAJEAAACHXDYEABgwBhtgAM2AYGAA"
+      }
+    ],
+    "comment": "闇アタッカー未所持で印発動が必要ない時に使える。\nミスティで火力出したい人用。",
+    "element": "umbra"
+  },
+  {
+    "id": "party_mvms9z1q_fju5phqlnz",
+    "title": "オトハ軸闇パ",
+    "characters": [
+      "ミスティ",
+      "オトハ",
+      "コゼット"
+    ],
+    "presets": [
+      {
+        "label": "理想形76",
+        "code": "AAAAhwAAAJEAAACOzAEAkggwBtnsAGxBwAww"
+      },
+      {
+        "label": "安め62",
+        "code": "AAAAhwAAAJEAAACOzAEAkgAwBnngAGwBwAwY"
+      }
+    ],
+    "comment": "闇アタッカー未所持で印発動が必要な時用。コゼットの1は迷幻優先。\nミスティは呪言以外枠埋めでいい。",
+    "element": "umbra"
+  },
+  {
+    "id": "party_mvmrzdm3_8ua2qlp11b",
+    "title": "フィレン軸闇パ",
+    "characters": [
+      "フィレン",
+      "オトハ",
+      "コゼット"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAbgAAAJEAAACOzPAYAEYwBltgAGxBwAww"
+      },
+      {
+        "label": "安め74",
+        "code": "AAAAbgAAAJEAAACOzOAYAAYwBhngAGwBwAwY"
+      }
+    ],
+    "comment": "フィレン＆オトハで火力を出す。オトハの雨をしっかり当てよう。\n理想形について、余るならコゼットの1のところを上げる。コゼットの1は迷幻優先。",
+    "element": "umbra"
+  }
+]
