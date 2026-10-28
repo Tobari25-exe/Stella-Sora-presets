@@ -430,14 +430,14 @@
     "presets": [
       {
         "label": "理想形82",
-        "code": "AAAAogAAAHMAAABrzbACbYbDiAQMAGxIwAIA"
+        "code": "AAAAogAAAHMAAABrzbACbYbDiAQMAMxIwAIA"
       },
       {
-        "label": "安め73",
-        "code": "AAAAogAAAHMAAABrzZgAvYbDiAQMAGxIwAIA"
+        "label": "安め71",
+        "code": "AAAAogAAAHMAAABrzTAASYbBiAQMAMxIwAIA"
       }
     ],
-    "comment": "ひたすらセイナの素質を集める。\nティリアの栄光の凱旋は諸説。",
+    "comment": "ひたすらセイナの素質を集める。\n支援は枠埋め用。",
     "element": "lux"
   },
   {
