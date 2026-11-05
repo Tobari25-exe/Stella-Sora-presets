@@ -1,0 +1,37 @@
+{
+  "ja": {
+    "intro": "個人的に使っているプリセットコードを蓄積してるサイトです。\nあくまでも1ユーザが組んだだけのものなので、最適解という保証はありません。\nまぁそれなりに戦えるものにはなっていると思います。\n参考程度にお使いください。",
+    "codeNotice": "プリセットコードは予告なく変更する可能性があります。",
+    "wantedNotice": "指名手配想定です。\n優先度の高い素質は安め編成との差分で見てください。",
+    "disclaimer": "※日本語以外はAI翻訳なので、間違ってるかもです。",
+    "contact": "何かご意見あればXまで。"
+  },
+  "en": {
+    "intro": "This site is a collection of preset codes I use myself.\nThey're teams I've put together as just one player, so I can't promise they're the best possible setups.\nStill, I think they hold up reasonably well in actual play.\nFeel free to use them as a reference.",
+    "codeNotice": "Preset codes may change without prior notice.",
+    "wantedNotice": "These builds are intended for Wanted missions.\nTo identify the higher-priority talents, compare each build with its budget version.",
+    "disclaimer": "※ Everything other than the Japanese text is AI-translated, so there may be mistakes.",
+    "contact": "If you have any thoughts or suggestions, feel free to reach out on X."
+  },
+  "zh-Hans": {
+    "intro": "这个网站主要用来整理我自己平时使用的预设代码。\n这些队伍都只是我个人搭配的，不一定是最优解。\n不过我觉得实战表现还算不错。\n大家可以拿来参考一下。",
+    "codeNotice": "预设代码可能随时调整，恕不另行通知。",
+    "wantedNotice": "这些编队以通缉任务为前提。\n想了解哪些天赋优先级更高，请对照低成本编队，查看两者的差异。",
+    "disclaimer": "※ 除日语外，其他语言的内容均由 AI 翻译，可能会有不准确的地方。",
+    "contact": "如果有任何意见或建议，欢迎来 X 上找我。"
+  },
+  "zh-Hant": {
+    "intro": "這個網站主要用來整理我自己平常使用的預設代碼。\n這些隊伍都只是我個人搭配的，不一定是最佳配置。\n不過我覺得實戰表現還算不錯。\n歡迎大家作為參考。",
+    "codeNotice": "預設代碼可能隨時調整，恕不另行通知。",
+    "wantedNotice": "這些編隊以通緝任務為前提。\n想了解哪些天賦的優先級較高，請對照低成本編隊，查看兩者的差異。",
+    "disclaimer": "※ 除日文外，其他語言的內容均由 AI 翻譯，可能會有不準確的地方。",
+    "contact": "如果有任何意見或建議，歡迎到 X 上找我。"
+  },
+  "ko": {
+    "intro": "제가 평소에 사용하는 프리셋 코드를 모아 둔 사이트입니다.\n어디까지나 한 명의 유저가 직접 짠 조합이라 최적의 편성이라고 장담할 수는 없습니다.\n그래도 실전에서 어느 정도는 충분히 쓸 만하다고 생각합니다.\n가볍게 참고해 주세요.",
+    "codeNotice": "프리셋 코드는 사전 안내 없이 변경될 수 있습니다.",
+    "wantedNotice": "지명수배 콘텐츠를 기준으로 한 편성입니다.\n우선순위가 높은 소질은 저비용 편성과의 차이를 참고해 주세요.",
+    "disclaimer": "※ 일본어를 제외한 내용은 AI로 번역했기 때문에 잘못된 부분이 있을 수 있습니다.",
+    "contact": "의견이나 제안이 있으시면 X로 편하게 연락해 주세요."
+  }
+}

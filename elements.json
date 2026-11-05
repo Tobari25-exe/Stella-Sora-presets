@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aqua",
+    "ja": "水",
+    "en": "Aqua",
+    "zhHans": "水",
+    "zhHant": "水",
+    "ko": "물"
+  },
+  {
+    "id": "ignis",
+    "ja": "火",
+    "en": "Ignis",
+    "zhHans": "火",
+    "zhHant": "火",
+    "ko": "불"
+  },
+  {
+    "id": "terra",
+    "ja": "地",
+    "en": "Terra",
+    "zhHans": "地",
+    "zhHant": "地",
+    "ko": "땅"
+  },
+  {
+    "id": "ventus",
+    "ja": "風",
+    "en": "Ventus",
+    "zhHans": "风",
+    "zhHant": "風",
+    "ko": "바람"
+  },
+  {
+    "id": "lux",
+    "ja": "光",
+    "en": "Lux",
+    "zhHans": "光",
+    "zhHant": "光",
+    "ko": "빛"
+  },
+  {
+    "id": "umbra",
+    "ja": "闇",
+    "en": "Umbra",
+    "zhHans": "暗",
+    "zhHant": "暗",
+    "ko": "어둠"
+  }
+]

@@ -1,0 +1,294 @@
+[
+  {
+    "name": "ミスティ",
+    "image": "images/ミスティ.webp",
+    "enName": "Mistique",
+    "zhHansName": "雾语",
+    "zhHantName": "霧語",
+    "koName": "미스티",
+    "element": "umbra"
+  },
+  {
+    "name": "シア",
+    "image": "images/シア.webp",
+    "enName": "Shia",
+    "zhHansName": "希娅",
+    "zhHantName": "希婭",
+    "koName": "시아",
+    "element": "lux"
+  },
+  {
+    "name": "フィレン",
+    "image": "images/フィレン.webp",
+    "enName": "Firenze",
+    "zhHansName": "翡冷翠",
+    "zhHantName": "翡冷翠",
+    "koName": "피렌",
+    "element": "umbra"
+  },
+  {
+    "name": "フリージア",
+    "image": "images/フリージア.webp",
+    "enName": "Freesia",
+    "zhHansName": "苍兰",
+    "zhHantName": "蒼蘭",
+    "koName": "프리지아",
+    "element": "aqua"
+  },
+  {
+    "name": "オトハ",
+    "image": "images/オトハ.webp",
+    "enName": "Otoha",
+    "zhHansName": "乙叶",
+    "zhHantName": "乙葉",
+    "koName": "오토하",
+    "element": "umbra"
+  },
+  {
+    "name": "ミネルバ",
+    "image": "images/ミネルバ.webp",
+    "enName": "Minova",
+    "zhHansName": "密涅瓦",
+    "zhHantName": "密涅瓦",
+    "koName": "미네르바",
+    "element": "lux"
+  },
+  {
+    "name": "グレイ",
+    "image": "images/グレイ.webp",
+    "enName": "Gerie",
+    "zhHansName": "格芮",
+    "zhHantName": "格芮",
+    "koName": "그레이",
+    "element": "terra"
+  },
+  {
+    "name": "ラール（聖夜）",
+    "image": "images/ラール（聖夜）.webp",
+    "enName": "Snowish Laru",
+    "zhHansName": "菈露（圣夜）",
+    "zhHantName": "聖夜菈露",
+    "koName": "라루(이브)",
+    "jaSearchAliases": [
+      "せいや",
+      "ラール（せいや）",
+      "クリスマスラール"
+    ],
+    "element": "ignis"
+  },
+  {
+    "name": "ナズナ",
+    "image": "images/ナズナ.webp",
+    "enName": "Nazuna",
+    "zhHansName": "小禾",
+    "zhHantName": "小禾",
+    "koName": "나즈나",
+    "element": "terra"
+  },
+  {
+    "name": "チーシア",
+    "image": "images/チーシア.webp",
+    "enName": "Chixia",
+    "zhHansName": "赤霞",
+    "zhHantName": "赤霞",
+    "koName": "치시아",
+    "element": "ignis"
+  },
+  {
+    "name": "ナツカ",
+    "image": "images/ナツカ.webp",
+    "enName": "Nazuka",
+    "zhHansName": "夏花",
+    "zhHantName": "夏花",
+    "koName": "나츠카",
+    "element": "ventus"
+  },
+  {
+    "name": "シャトン",
+    "image": "images/シャトン.webp",
+    "enName": "Chaton",
+    "zhHansName": "猫眼",
+    "zhHantName": "貓眼",
+    "koName": "샤통",
+    "element": "ignis"
+  },
+  {
+    "name": "クルニス（華服）",
+    "image": "images/クルニス（華服）.webp",
+    "enName": "Springseek Coronis",
+    "zhHansName": "科洛妮丝（新春）",
+    "zhHantName": "緋春柯洛妮絲",
+    "koName": "크루니스(새해)",
+    "jaSearchAliases": [
+      "かふく",
+      "クルニス（かふく）"
+    ],
+    "element": "terra"
+  },
+  {
+    "name": "トーナ",
+    "image": "images/トーナ.webp",
+    "enName": "Donna",
+    "zhHansName": "多娜",
+    "zhHantName": "多娜",
+    "koName": "토나",
+    "element": "aqua"
+  },
+  {
+    "name": "エリー",
+    "image": "images/エリー.webp",
+    "enName": "Allie",
+    "zhHansName": "艾蕾",
+    "zhHantName": "艾蕾",
+    "koName": "엘리",
+    "element": "aqua"
+  },
+  {
+    "name": "ウィロー（水着）",
+    "image": "images/ウィロー（水着）.webp",
+    "enName": "Suntide Willow",
+    "zhHansName": "薇洛（盛夏）",
+    "zhHantName": "沐夏薇洛",
+    "koName": "윌로(여름)",
+    "jaSearchAliases": [
+      "みずぎ",
+      "ウィロー（みずぎ）"
+    ],
+    "element": "aqua"
+  },
+  {
+    "name": "フローラ",
+    "image": "images/フローラ.webp",
+    "enName": "Flora",
+    "zhHansName": "紫槿",
+    "zhHantName": "紫槿",
+    "koName": "플로라",
+    "element": "ignis"
+  },
+  {
+    "name": "エレノア",
+    "image": "images/エレノア.webp",
+    "enName": "Eleanor",
+    "zhHansName": "埃莉诺",
+    "zhHantName": "埃莉諾",
+    "koName": "엘레노어",
+    "element": "ventus"
+  },
+  {
+    "name": "チトセ",
+    "image": "images/チトセ.webp",
+    "enName": "Chitose",
+    "zhHansName": "千都世",
+    "zhHantName": "千都世",
+    "koName": "치토세",
+    "element": "aqua"
+  },
+  {
+    "name": "ナノハ",
+    "image": "images/ナノハ.webp",
+    "enName": "Nanoha",
+    "zhHansName": "花原",
+    "zhHantName": "花原",
+    "koName": "나노하",
+    "element": "ventus"
+  },
+  {
+    "name": "カリン",
+    "image": "images/カリン.webp",
+    "enName": "Karin",
+    "zhHansName": "花铃",
+    "zhHantName": "花鈴",
+    "koName": "카린",
+    "element": "umbra"
+  },
+  {
+    "name": "レイス",
+    "image": "images/レイス.webp",
+    "enName": "Wraith",
+    "zhHansName": "风影",
+    "zhHantName": "風影",
+    "koName": "레이스",
+    "element": "ventus"
+  },
+  {
+    "name": "フユカ",
+    "image": "images/フユカ.webp",
+    "enName": "Fuyuka",
+    "zhHansName": "冬香",
+    "zhHantName": "冬香",
+    "koName": "후유카",
+    "element": "ignis"
+  },
+  {
+    "name": "ホタル",
+    "image": "images/ホタル.webp",
+    "enName": "Firefly",
+    "zhHansName": "火垂",
+    "zhHantName": "火垂",
+    "koName": "호타루",
+    "element": "lux"
+  },
+  {
+    "name": "コゼット",
+    "image": "images/コゼット.webp",
+    "enName": "Cosette",
+    "zhHansName": "珂赛特",
+    "zhHantName": "珂賽特",
+    "koName": "코제트",
+    "element": "umbra"
+  },
+  {
+    "name": "テレサ",
+    "image": "images/テレサ.webp",
+    "enName": "Teresa",
+    "zhHansName": "特丽莎",
+    "zhHantName": "特麗莎",
+    "koName": "테레사",
+    "element": "aqua"
+  },
+  {
+    "name": "ティリア",
+    "image": "images/ティリア.webp",
+    "enName": "Tilia",
+    "zhHansName": "缇莉娅",
+    "zhHantName": "緹莉婭",
+    "koName": "틸리아",
+    "element": "lux"
+  },
+  {
+    "name": "アンズ",
+    "image": "images/アンズ.webp",
+    "enName": "Ann",
+    "zhHansName": "杏子",
+    "zhHantName": "杏子",
+    "koName": "안즈",
+    "element": "ventus"
+  },
+  {
+    "name": "クルニス",
+    "image": "images/クルニス.webp",
+    "enName": "Coronis",
+    "zhHansName": "科洛妮丝",
+    "zhHantName": "柯洛妮絲",
+    "koName": "크루니스",
+    "element": "umbra"
+  },
+  {
+    "name": "セイナ（原点）",
+    "image": "images/セイナ（原点）.webp",
+    "enName": "Firstlight Noya",
+    "zhHansName": "尘沙（源初）",
+    "zhHantName": "破曉塵沙",
+    "koName": "세이나(기원)",
+    "element": "lux"
+  },
+  {
+    "name": "スパクル",
+    "image": "images/スパクル.webp",
+    "enName": "Sparkla",
+    "zhHansName": "斯帕克拉",
+    "zhHantName": "斯帕克拉",
+    "koName": "스파클",
+    "element": "terra"
+  }
+]
