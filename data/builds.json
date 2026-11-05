@@ -1,5 +1,47 @@
 [
   {
+    "id": "party_mw25q36x_v8wv9mcj6e",
+    "title": "エリトナスキル型",
+    "characters": [
+      "エリー",
+      "トーナ",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形83",
+        "code": "AAAAiwAAAIIAAAB/zbADAEbHgDgcAKxACA2Q"
+      },
+      {
+        "label": "安め68",
+        "code": "AAAAiwAAAIIAAAB/xvADAAbDgBgMAKxAAA2A"
+      }
+    ],
+    "comment": "ウィロー未所持or両面水などで使えない時用。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mvv8pxbc_wcbyj5tobz",
+    "title": "主力ミネルバ",
+    "characters": [
+      "ミネルバ",
+      "ホタル",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAhAAAAGsAAABzojbbDAjMC8BgAzABIewA"
+      },
+      {
+        "label": "安め71",
+        "code": "AAAAhAAAAGsAAABzojY7DADMAcBgADAAIOwA"
+      }
+    ],
+    "comment": "趣味パ。",
+    "element": "lux"
+  },
+  {
     "id": "party_mvnvt5pm_pkap82o98u",
     "title": "フリージア水印パ",
     "characters": [
@@ -311,7 +353,7 @@
         "code": "AAAAawAAAHsAAACFkDPADAOgA8AcADAD2wYA"
       }
     ],
-    "comment": "元は光の無限リング用に組んだけど、ナツカ実装時点の最適な気がする。\n両面風の時にもかなり使えそう。",
+    "comment": "元は光の無限リング用に組んだ編成。星4+ナツカなら多分最適。\n両面風の時にもかなり使えそう。ナズナいるならそっちでいい。",
     "element": "ventus"
   },
   {
@@ -366,12 +408,12 @@
     ],
     "presets": [
       {
-        "label": "理想形77",
-        "code": "AAAAogAAAHMAAACbzbACbYbDiAQMADABIBwB"
+        "label": "理想形79",
+        "code": "AAAAogAAAHMAAACbzbADbYbDiAQMADABIBwB"
       },
       {
-        "label": "安め68",
-        "code": "AAAAogAAAHMAAACbzZgAvYbDiAQMADABIBwB"
+        "label": "安め67",
+        "code": "AAAAogAAAHMAAACbzTABRYbDiAQMADABIBwB"
       }
     ],
     "comment": "ティリア居ない時のセイナパ。\nシアは月の海の兎たち以外枠埋め。",
@@ -430,14 +472,14 @@
     "presets": [
       {
         "label": "理想形84",
-        "code": "AAAAogAAAHMAAABrzbACbYbDiAQMAGzIwAIA"
+        "code": "AAAAogAAAHMAAABrzbADbYbDiAQMAMxIwAIA"
       },
       {
-        "label": "安め73",
-        "code": "AAAAogAAAHMAAABrzZgAvYbDiAQMAGxIwAIA"
+        "label": "安め70",
+        "code": "AAAAogAAAHMAAABrzTACQYbBiAQMAMxAwAIA"
       }
     ],
-    "comment": "ひたすらセイナの素質を集める。\n支援の枠埋めが重要。",
+    "comment": "支援は6のとこ以外は枠埋め用。\nセイナ素質は理想は50だが、要所だけ取ってアシスト効果を優先。",
     "element": "lux"
   },
   {
@@ -500,7 +542,7 @@
         "code": "AAAAbgAAAIcAAACOzOAYAAbMwMBgAGwBwAwY"
       }
     ],
-    "comment": "フィレン実装時の闇パ最適。\nミスティも育てればちゃんと火力出せる。",
+    "comment": "フィレン実装時の闇パ最適。コゼットの1は迷幻優先。\nミスティも育てればちゃんと火力出せる。",
     "element": "umbra"
   },
   {
@@ -584,7 +626,7 @@
         "code": "AAAAnQAAAI4AAACRzbAHABhsAcAMGMzIGYAA"
       }
     ],
-    "comment": "カリン＆オトハで火力を出す。\nどの素質も優秀なので素質調整が難しい。",
+    "comment": "カリン＆オトハで火力を出す。コゼットの1は迷幻優先。\nどの素質も優秀なので素質調整が難しい。",
     "element": "umbra"
   },
   {
@@ -626,7 +668,7 @@
         "code": "AAAAhwAAAJEAAACOzAEAkgAwBnngAGwBwAwY"
       }
     ],
-    "comment": "闇アタッカー未所持で印発動が必要な時用。\nミスティは呪言以外枠埋めでいい。",
+    "comment": "闇アタッカー未所持で印発動が必要な時用。コゼットの1は迷幻優先。\nミスティは呪言以外枠埋めでいい。",
     "element": "umbra"
   },
   {
@@ -647,7 +689,7 @@
         "code": "AAAAbgAAAJEAAACOzOAYAAYwBhngAGwBwAwY"
       }
     ],
-    "comment": "フィレン＆オトハで火力を出す。オトハの雨をしっかり当てよう。\n理想形について、余るならコゼットの1のところを上げる。",
+    "comment": "フィレン＆オトハで火力を出す。オトハの雨をしっかり当てよう。\n理想形について、余るならコゼットの1のところを上げる。コゼットの1は迷幻優先。",
     "element": "umbra"
   }
 ]
