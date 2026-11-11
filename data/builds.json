@@ -1,5 +1,89 @@
 [
   {
+    "id": "party_mwcfhxdm_yk6msejx3c",
+    "title": "エリトナ通常型",
+    "characters": [
+      "エリー",
+      "トーナ",
+      "テレサ"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAiwAAAIIAAAB/MAbDYnDHgDgMAKJAAG2w"
+      },
+      {
+        "label": "安め72",
+        "code": "AAAAiwAAAIIAAAB/MAaDYCjDgBgMAKJAAG2A"
+      }
+    ],
+    "comment": "水印との両面用。ボスギミックで使い分け。",
+    "element": "aqua"
+  },
+  {
+    "id": "party_mwb48x06_x240ae65yh",
+    "title": "セイナシア",
+    "characters": [
+      "セイナ（原点）",
+      "シア",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形79",
+        "code": "AAAAogAAAGsAAACbzbADbYbMSMACADABIBwB"
+      },
+      {
+        "label": "安め64",
+        "code": "AAAAogAAAGsAAACbzTACQYbMQMACADABAAwB"
+      }
+    ],
+    "comment": "ホタル居ない時のセイナパ。支援は6のとこ以外は枠埋め用。\nセイナ素質は理想は50だが、要所だけ取ってアシスト効果を優先。",
+    "element": "lux"
+  },
+  {
+    "id": "party_mwb3qk4q_bmu4k4jqux",
+    "title": "主力グレイ通常型",
+    "characters": [
+      "グレイ",
+      "ナズナ",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形87",
+        "code": "AAAAlQAAAJwAAABrzbADAAMwBhhsBmAGGGAG"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAlQAAAJwAAABrzbAAgAYwBhgGBmADDGAG"
+      }
+    ],
+    "comment": "趣味パ。",
+    "element": "terra"
+  },
+  {
+    "id": "party_mwb3j77h_xbib9tnpwy",
+    "title": "主力グレイスキル型",
+    "characters": [
+      "グレイ",
+      "ナズナ",
+      "ティリア"
+    ],
+    "presets": [
+      {
+        "label": "理想形87",
+        "code": "AAAAlQAAAJwAAABrMAbA7AEwBhgdhmAGGGAG"
+      },
+      {
+        "label": "安め70",
+        "code": "AAAAlQAAAJwAAABrMAbAbAEwBhgGBmADDGAG"
+      }
+    ],
+    "comment": "趣味パ。印パのティリア流用。",
+    "element": "terra"
+  },
+  {
     "id": "party_mw25q36x_v8wv9mcj6e",
     "title": "エリトナスキル型",
     "characters": [
@@ -412,11 +496,11 @@
         "code": "AAAAogAAAHMAAACbzbADbYbDiAQMADABIBwB"
       },
       {
-        "label": "安め67",
-        "code": "AAAAogAAAHMAAACbzTABRYbDiAQMADABIBwB"
+        "label": "安め64",
+        "code": "AAAAogAAAHMAAACbzTACQYbBiAQMADABAAwB"
       }
     ],
-    "comment": "ティリア居ない時のセイナパ。\nシアは月の海の兎たち以外枠埋め。",
+    "comment": "ティリア居ない時のセイナパ。支援は6のとこ以外は枠埋め用。\nセイナ素質は理想は50だが、要所だけ取ってアシスト効果を優先。",
     "element": "lux"
   },
   {
@@ -570,8 +654,8 @@
     "id": "party_mvmtyez5_zy354hossx",
     "title": "クルニス入り地印パ",
     "characters": [
-      "グレイ",
       "ナズナ",
+      "グレイ",
       "クルニス（華服）"
     ],
     "presets": [
