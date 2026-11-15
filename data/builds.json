@@ -1,5 +1,47 @@
 [
   {
+    "id": "party_mwhvjg9z_j487i757lm",
+    "title": "グレスグ通常型",
+    "characters": [
+      "グレイ",
+      "スグハ",
+      "ナズナ"
+    ],
+    "presets": [
+      {
+        "label": "理想形84",
+        "code": "AAAAlQAAAJwAAAChzbAHAAEwAxgcBjAGwGwG"
+      },
+      {
+        "label": "安め71",
+        "code": "AAAAlQAAAJwAAAChx7AHAAAwARgMBjAGYGwD"
+      }
+    ],
+    "comment": "趣味パ。よっぽどのことがない限り印でいい。",
+    "element": "terra"
+  },
+  {
+    "id": "party_mwhv7avw_7k6fx5xka1",
+    "title": "スグハ地印",
+    "characters": [
+      "ナズナ",
+      "グレイ",
+      "スグハ"
+    ],
+    "presets": [
+      {
+        "label": "理想形82",
+        "code": "AAAAnAAAAKEAAACVUYAXbAbNaAAMAGAAOwwA"
+      },
+      {
+        "label": "安め58",
+        "code": "AAAAnAAAAKEAAACVUMADHAbMSAAMAGAAOwYA"
+      }
+    ],
+    "comment": "スグハの火力割合的に、理想形に5で入れてるところよりアシスト効果優先でいい。",
+    "element": "terra"
+  },
+  {
     "id": "party_mwcfhxdm_yk6msejx3c",
     "title": "エリトナ通常型",
     "characters": [

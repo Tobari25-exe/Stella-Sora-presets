@@ -290,5 +290,32 @@
     "zhHantName": "斯帕克拉",
     "koName": "스파클",
     "element": "terra"
+  },
+  {
+    "name": "スグハ",
+    "image": "images/スグハ.webp",
+    "enName": "Leafia",
+    "zhHansName": "优叶",
+    "zhHantName": "優葉",
+    "koName": "스구하",
+    "element": "terra"
+  },
+  {
+    "name": "セイナ",
+    "image": "images/セイナ.webp",
+    "enName": "Noya",
+    "zhHansName": "尘沙",
+    "zhHantName": "塵沙",
+    "koName": "세이나",
+    "element": "ventus"
+  },
+  {
+    "name": "カナーチェ",
+    "image": "images/カナーチェ.webp",
+    "enName": "Canace",
+    "zhHansName": "卡娜丝",
+    "zhHantName": "卡娜絲",
+    "koName": "카나체",
+    "element": "ventus"
   }
 ]
