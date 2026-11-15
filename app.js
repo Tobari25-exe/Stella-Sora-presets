@@ -150,7 +150,7 @@ async function copy(text) {
     if (!document.execCommand('copy')) throw new Error('copy failed');
   } finally { textarea.remove(); }
 }
-function presetItem(preset, index) {
+function presetItem(preset, index, build) {
   const item = element('div', 'preset');
   const label = preset.label || t('preset')(index);
   const code = element('code', 'preset-code', preset.code);
@@ -164,6 +164,7 @@ function presetItem(preset, index) {
       button.textContent = t('copied');
       button.classList.add('is-copied');
       notice(t('copySuccess'));
+      window.StellaAnalytics?.track('copy_success', { build_id: build.id, build_title: build.title, preset_index: index + 1, element: build.element || null, language: state.lang });
       setTimeout(() => {
         button.textContent = t('copy');
         button.classList.remove('is-copied');
@@ -179,7 +180,7 @@ function buildCard(build) {
   const characters = element('div', 'characters');
   const presets = element('div', 'presets');
   build.characters.forEach((name, index) => characters.append(character(name, index)));
-  build.presets.forEach((preset, index) => presets.append(presetItem(preset, index)));
+  build.presets.forEach((preset, index) => presets.append(presetItem(preset, index, build)));
   const heading = element('div', 'build-title-row');
   heading.append(element('h2', 'build-title', build.title));
   const tag = state.elements.get(build.element);
@@ -242,6 +243,7 @@ function updateElementFilter() {
     button.dataset.element = entry.id;
     button.addEventListener('click', () => {
       state.element = state.element === entry.id ? '' : entry.id;
+      window.StellaAnalytics?.track('filter_select', { element: entry.id, filter_action: state.element ? 'select' : 'clear', language: state.lang });
       syncElementFilter();
       render();
     });
@@ -300,6 +302,7 @@ async function initialize() {
     let preferred = 'ja';
     try { preferred = localStorage.getItem('stella-language') || 'ja'; } catch { /* storage may be unavailable */ }
     setLanguage(translations[preferred] ? preferred : 'ja');
+
   } catch (error) {
     console.error('Failed to load team data', error);
     ui.list.replaceChildren();
