@@ -1,5 +1,89 @@
 [
   {
+    "id": "party_mwmf1466_6s03ql0qhh",
+    "title": "主力チーシア",
+    "characters": [
+      "チーシア",
+      "ラール（聖夜）",
+      "フローラ"
+    ],
+    "presets": [
+      {
+        "label": "理想形81",
+        "code": "AAAAjQAAAH4AAACeMDbHHADMBgxgwMIAGAwG"
+      },
+      {
+        "label": "安め61",
+        "code": "AAAAjQAAAH4AAACeMA7DEgDMAwBgwMIAGAwD"
+      }
+    ],
+    "comment": "趣味パ。\nびっくりするほど火力出ない。",
+    "element": "ignis"
+  },
+  {
+    "id": "party_mwmer30o_ajcoymwsbx",
+    "title": "シャトンチーシア",
+    "characters": [
+      "シャトン",
+      "チーシア",
+      "フローラ"
+    ],
+    "presets": [
+      {
+        "label": "理想形88",
+        "code": "AAAAcgAAAH4AAACNMAYA7Y7MDhgRgMwwAGwA"
+      },
+      {
+        "label": "安め69",
+        "code": "AAAAcgAAAH4AAACNMAYA7A7MBgwBgMwYABwA"
+      }
+    ],
+    "comment": "クリラールいない時用。",
+    "element": "ignis"
+  },
+  {
+    "id": "party_mwmedcbk_ckdcw9kfaj",
+    "title": "フユカチーシア",
+    "characters": [
+      "フユカ",
+      "チーシア",
+      "フローラ"
+    ],
+    "presets": [
+      {
+        "label": "理想形86",
+        "code": "AAAAhgAAAH4AAACNMAE7DDbMAxgxgMwwAGwA"
+      },
+      {
+        "label": "安め65",
+        "code": "AAAAhgAAAH4AAACNMAEPBjbMAAwxgMYwABwA"
+      }
+    ],
+    "comment": "フユカ実装時火パ最適。\nとにかくフユカの必殺で会心を出す。",
+    "element": "ignis"
+  },
+  {
+    "id": "party_mwkv0bom_09bt1dkzd7",
+    "title": "ヨロズパ",
+    "characters": [
+      "テレサ",
+      "フリージア",
+      "トーナ"
+    ],
+    "presets": [
+      {
+        "label": "理想形87",
+        "code": "AAAAfwAAAIIAAAB9XbYjEADNgCBsAG2ALCGA"
+      },
+      {
+        "label": "安め67",
+        "code": "AAAAfwAAAIIAAAB9UbYhkADNgCA8AGzAIAGA"
+      }
+    ],
+    "comment": "愛好家たちが数々のドラマを残した名構築。",
+    "element": "aqua"
+  },
+  {
     "id": "party_mwhvjg9z_j487i757lm",
     "title": "グレスグ通常型",
     "characters": [
@@ -177,15 +261,15 @@
     ],
     "presets": [
       {
-        "label": "理想形82",
-        "code": "AAAAfQAAAKAAAABrbDAAk4DNjsAABsGDDGAG"
+        "label": "理想形80",
+        "code": "AAAAfQAAAKAAAABrZjAAk4DNhsAEBsGDDGAG"
       },
       {
         "label": "安め65",
         "code": "AAAAfQAAAKAAAABrZjAAk4DNg8AAA8GCAGAD"
       }
     ],
-    "comment": "ウィロー実装によってフリージアが覚醒した姿。\n会心次第でありえないくらいダメージに差が出る。",
+    "comment": "ウィロー実装によってフリージアが覚醒した姿。会心次第でありえないくらいダメージに差が出る。\nウィロー6枠目以降は浪風>海鳴であると嬉しい枠。基本は6×5でエリー餅の左アシスト優先。\n名残雪は挙動が怪しいので一旦1でいいかも。",
     "element": "aqua"
   },
   {
@@ -206,7 +290,7 @@
         "code": "AAAAiwAAAIIAAACgxvADAAbNgCAMADADwDwD"
       }
     ],
-    "comment": "エリー実装後の水パ最適。\n取りたい素質多め。",
+    "comment": "エリー実装後の水パ最適。取りたい素質多め。\n可能ならウィロー6枠目に海色か管制あるとGood。",
     "element": "aqua"
   },
   {
@@ -227,7 +311,7 @@
         "code": "AAAAkAAAAKAAAACCMAYjYBgwA8BsAc2AIAwA"
       }
     ],
-    "comment": "ウィロー実装後水パ最適。\nなるべくウィローの素質を集めたい。",
+    "comment": "ウィロー実装後水パ最適。なるべくウィローの素質を集めたい。\n可能ならウィロー6枠目に海色か管制あるとGood。",
     "element": "aqua"
   },
   {
@@ -366,8 +450,8 @@
     ],
     "presets": [
       {
-        "label": "理想形84",
-        "code": "AAAAjwAAAIkAAAB7zZADDBAwBsM8AKDGwJwA"
+        "label": "理想形87",
+        "code": "AAAAjwAAAIkAAAB7zYgDDBgwBsNsAKDGwJwA"
       },
       {
         "label": "安め69",
@@ -555,12 +639,12 @@
     ],
     "presets": [
       {
-        "label": "理想形84",
-        "code": "AAAAhgAAAH4AAACeMAE7DDbMDhgRgMIBGAwG"
+        "label": "理想形81",
+        "code": "AAAAhgAAAH4AAACeMAE7DDbMAxgxgMIAGAwG"
       },
       {
-        "label": "安め71",
-        "code": "AAAAhgAAAH4AAACeMAEPBjbMBgwBgMIAGAwG"
+        "label": "安め65",
+        "code": "AAAAhgAAAH4AAACeMAEPBjbMAAwxgMIAGAwD"
       }
     ],
     "comment": "フユカの必殺技にすべてを賭ける。\n目指せ全会心。",
@@ -580,8 +664,8 @@
         "code": "AAAAcgAAAH4AAACeMAYA7Y7MDhgRgMIBGAwG"
       },
       {
-        "label": "安め72",
-        "code": "AAAAcgAAAH4AAACeMAYA7A7MBgwBgMIAGAwG"
+        "label": "安め69",
+        "code": "AAAAcgAAAH4AAACeMAYA7A7MBgwBgMIAGAwD"
       }
     ],
     "comment": "シャトンでほぼすべての火力を出す。\nスナップショットを意識すると立ち回りがめっちゃ難くなるが、そこまでしなくてもある程度の火力は出る。",
